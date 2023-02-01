@@ -11,10 +11,10 @@ allure {
     report {
         version.set("2.20.1") //версия Allure Report (https://github.com/allure-framework/allure2)
     }
-    adapter {
+    adapter { // отвечает за появление папочки build/allure-results
         aspectjWeaver.set(true) // обработка аннотации @Step
         frameworks {
-            junit5 {
+            junit5 { //название фреймворка
                 adapterVersion.set("2.20.1") //версия Allure JUnit5 (https://github.com/allure-framework/allure-java)
             }
         }
