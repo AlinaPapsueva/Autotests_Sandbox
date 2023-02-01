@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Feb 01 20:12:54 GMT 2023","Wed Feb 01 20:12:56 GMT 2023","2456","","lesson10.ListenerSelenide","","lesson10.ListenerSelenide","testIssueNameInRepository","testIssueNameInRepository()",""
+"passed","Wed Feb 01 20:12:39 GMT 2023","Wed Feb 01 20:12:49 GMT 2023","9927","","SearchAndOpenPageYanaOnBehance","","SearchAndOpenPageYanaOnBehance","searchAndOpenPageYanaOnBehance","searchAndOpenPageYanaOnBehance()",""
+"passed","Wed Feb 01 20:12:56 GMT 2023","Wed Feb 01 20:12:59 GMT 2023","3297","","lesson10.StepAnnotations","","lesson10.StepAnnotations","testIssueNameInRepository","testIssueNameInRepository()",""
+"passed","Wed Feb 01 20:12:49 GMT 2023","Wed Feb 01 20:12:54 GMT 2023","4241","","lesson10.LambdaSteps","","lesson10.LambdaSteps","testIssueNameInRepository","testIssueNameInRepository()",""
