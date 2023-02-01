@@ -19,4 +19,5 @@ jobs:
       - name: Start selenoid
         uses: Xotabu4/selenoid-github-action@v2
         # запускаем тесты с Селеноидом
+      - run: chmod +x ./gradlew
       - run: ./gradlew clean test -Dselenide.remote=http://localhost:4444/wd/hub
